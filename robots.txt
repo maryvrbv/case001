@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://case001.gitverse.site/sitemap.xml
